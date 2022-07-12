@@ -1,28 +1,18 @@
-- 👋 Hi, I’m @Bezziboi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Bezziboi/Bezziboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 ## Hello World 🌍
 
 <img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" alt="MarineGEO circle logo" width="60%">
 
 ### 💫About Me :
-👨‍🎓 I am a BCA Student
 
-❤️ I love Technology
+- 👋 Hi, I’m Bezirgen
 
-🧑‍💻 I'm the one who builds for the Web
+- 👀 I’m interested in testing software 
 
-🎵 Listening to Music is love ❤️
+- ❤️ I love Technology
 
+- 🎵 Listening to Music is love ❤️
 
+- 📫 How to reach me - bezirgen.09142000@mail.ru
 
 <h3 align="left">Other Tools:</h3>
 
