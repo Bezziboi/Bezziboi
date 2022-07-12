@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello World 🌍, I'm Bezzi</h1>
+<h1 align="center">Hello World 🌍, I'm Bezir</h1>
 <h3 align="center">QA Engineer</h3>
 
 - 👋 Hi, I’m Bezirgen Akmammedov
