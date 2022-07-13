@@ -6,8 +6,6 @@
 
 - 👀 Currently looking for a job 
 
-- ❤️ I love Technology
-
 - 🎵 Listening to Music is love ❤️
 
 - 📫 How to reach me - bezirgen.09142000@mail.ru
@@ -41,8 +39,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bezziboi&show_icons=true&locale=en&layout=compact" alt="bezziboi" /></p>
-
-
-
-
-
