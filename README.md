@@ -9,8 +9,6 @@
 
 - 👀 Currently looking for a job 
 
-- 🎵 Listening to Music is love ❤️
-
 - 📫 How to reach me - bezirgen.09142000@mail.ru
 
 
