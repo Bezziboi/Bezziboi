@@ -5,11 +5,15 @@
 <h1 align="center">Hello World 🌍</h1>
 <h3 align="center">QA Engineer</h3>
 
-- 👋 Hi, I’m Bezirgen Akmammedov
+- Hi, I’m Bezirgen Akmammedov
 
-- 👀 Currently looking for a job 
+- Currently looking for a job 
 
-- 📫 How to reach me - bezirgen.09142000@mail.ru
+- Resume: <a href="https://drive.google.com/file/d/169_MRy9TXRFGFXvYdn_72p56npew3jQF/view?usp=sharing">
+link
+</a> 
+
+- How to reach me - bezirgen.09142000@mail.ru
 
 
 <h3 align="left">Connect with me:</h3>
