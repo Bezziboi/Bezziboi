@@ -5,7 +5,7 @@
 <h1 align="center">Hello World 🌍</h1>
 <h3 align="center">QA Engineer</h3>
 
-- Hi, I’m Bezirgen Akmammedov
+
 
 - Currently looking for a job 
 
@@ -21,6 +21,7 @@ link
 <a href="https://www.linkedin.com/in/bezirgen-akmammedov-a3bba1239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bezirgen-akmammedov" height="30" width="40" /></a>
 <a href="https://instagram.com/a_bezzii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_bezzii" height="30" width="40" /></a>
 <a href="https://t.me/bezZzii" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/telegram-app--v4.png" alt="@bezzzii" height="40" width="40" /></a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
