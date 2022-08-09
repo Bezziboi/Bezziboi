@@ -1,29 +1,32 @@
+
+
+<h3 align="center"><samp> Hi there 👋🏾🌍 welcome to my Github! I'm a Bezzi QA Engineering Enthusiast , Currently looking for a job. I also like Coding 🐍 and I'm exploring test automation  ☁️ </samp></h3>
+
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
+
+<p align="center">
+<a href= "https://www.linkedin.com/in/bezziboi"><img src="https://img.icons8.com/ios/500/000000/linkedin.png" height="40" width="40"/></a>
+<a href= "https://t.me/bezZzii"><img src="https://img.icons8.com/ios/50/000000/telegram.png" height="40" width="40"/></a>
+<a href= "https://instagram.com/a_bezzii"><img src="https://img.icons8.com/ios/500/000000/instagram-new--v1.png" height="40" width="40"/></a>
+<a href= "https://linktr.ee/bezzi"><img src="https://img.icons8.com/small/96/000000/external-link-squared.png" height="25" width="25"/></a>
+</p>
+
+<p align="center">
 <a href="https://www.codewars.com/users/Bezziboi">
 <img src="https://www.codewars.com/users/Bezziboi/badges/small"/> 
 </a>
+</p>
 
-<h1 align="center">Hello World 🌍</h1>
-<h3 align="center">QA Engineer</h3>
+```js
+const howToReachMe() => { return "bezirgen.09142000@mail.ru" }
 
-
-
-- Currently looking for a job 
-
-- Resume: <a href="https://drive.google.com/file/d/169_MRy9TXRFGFXvYdn_72p56npew3jQF/view?usp=sharing">
-link
-</a> 
-
-- How to reach me - bezirgen.09142000@mail.ru
+```
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/bezirgen-akmammedov-a3bba1239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bezirgen-akmammedov" height="30" width="40" /></a>
-<a href="https://instagram.com/a_bezzii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_bezzii" height="30" width="40" /></a>
-<a href="https://t.me/bezZzii" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/telegram-app--v4.png" alt="@bezzzii" height="40" width="40" /></a>
 
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"></h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </a>
@@ -34,6 +37,8 @@ link
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a>
+<a href="https://mochajs.org" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -42,4 +47,9 @@ link
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a> 
+</p>
+
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
 </p>
