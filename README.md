@@ -20,7 +20,7 @@
 </p>
 
 ```js
-const howToReachMe() => { return "bezirgen.09142000@mail.ru" }
+const howToReachMe = () => { return "bezirgen.09142000@mail.ru" }
 
 ```
 
