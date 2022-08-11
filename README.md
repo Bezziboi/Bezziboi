@@ -1,6 +1,6 @@
 
 
-<h3 align="center"><samp> Hi there 👋🏾🌍 welcome to my Github! I'm a Bezzi QA Engineering Enthusiast , Currently looking for a job. I also like Coding 🐍 and I'm exploring test automation  ☁️ </samp></h3>
+<h3 align="center"><samp> Hi there 👋🏾🌍 welcome to my Github! I'm a Bezzi QA Engineering Enthusiast. I also like Coding 🐍 and I'm exploring test automation  ☁️ </samp></h3>
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
