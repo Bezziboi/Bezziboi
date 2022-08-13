@@ -17,7 +17,7 @@
 
 
 <details>
-<summary><h3><samp>More:</samp></h3></summary>
+<summary><h3><samp>More</samp></h3></summary>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bezziboi&label=Profile%20views&color=19191a&style=flat" alt="bezziboi" /></p>
 <p align="left">
