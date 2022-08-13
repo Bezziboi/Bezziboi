@@ -19,15 +19,15 @@
 </a>
 </p>
 
-```js
-const howToReachMe = () => { return "bezirgen.09142000@mail.ru" }
-
-```
 
 
+<details>
+<summary><h3><samp>More:</samp></h3></summary>
 
-<h3 align="left"></h3>
-<p align="left">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bezziboi&label=Profile%20views&color=19191a&style=flat" alt="bezziboi" /></p>
+
+<h3 align="center">🔧 Technologies & Tools</h3>
+<p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -48,6 +48,14 @@ const howToReachMe = () => { return "bezirgen.09142000@mail.ru" }
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a> 
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bezziboi&show_icons=true&theme=dark&hide=issues,contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bezziboi&layout=compact&theme=dark)](https://github.com/Bezziboi/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bezziboi&theme=dark&hide_border=true&ring=DD8686&fire=DD0D0D&currStreakLabel=DD4646)](https://git.io/streak-stats)
+
+</details>
+
+
 
 <p align="center"><samp>
 Check out my repos ⬇️  
