@@ -13,11 +13,6 @@
 <a href= "https://linktr.ee/bezzi"><img src="https://img.icons8.com/small/96/000000/external-link-squared.png" height="25" width="25"/></a>
 </p>
 
-<p align="center">
-<a href="https://www.codewars.com/users/Bezziboi">
-<img src="https://www.codewars.com/users/Bezziboi/badges/small"/> 
-</a>
-</p>
 
 
 
@@ -25,6 +20,12 @@
 <summary><h3><samp>More:</samp></h3></summary>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bezziboi&label=Profile%20views&color=19191a&style=flat" alt="bezziboi" /></p>
+<p align="left">
+<a href="https://www.codewars.com/users/Bezziboi">
+<img src="https://www.codewars.com/users/Bezziboi/badges/small"/> 
+</a>
+</p>
+
 
 <h3 align="center">🔧 Technologies & Tools</h3>
 <p align="center">
