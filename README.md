@@ -50,8 +50,8 @@
 </a> 
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bezziboi&show_icons=true&theme=dark&hide=issues,contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bezziboi&layout=compact&theme=dark)](https://github.com/Bezziboi/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bezziboi&show_icons=true&theme=dark&hide=issues,contribs&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bezziboi&layout=compact&theme=dark&hide_border=true)](https://github.com/Bezziboi/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bezziboi&theme=dark&hide_border=true&ring=DD8686&fire=DD0D0D&currStreakLabel=DD4646)](https://git.io/streak-stats)
 
 </details>
