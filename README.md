@@ -3,7 +3,7 @@
 <h3 align="center"><samp> Hi there 👋🏾🌍 welcome to my Github! I'm a Bezzi QA Engineering Enthusiast. I also like Coding 🐍 and I'm exploring test automation  ☁️ </samp></h3>
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+  <img width="350" src="https://user-images.githubusercontent.com/106346771/185440900-81a0b63e-08b7-4130-b7e1-b78f027216fc.gif">
 </p>
 
 <p align="center">
@@ -12,7 +12,6 @@
 <a href= "https://instagram.com/a_bezzii"><img src="https://img.icons8.com/ios/500/000000/instagram-new--v1.png" height="40" width="40"/></a>
 <a href= "https://linktr.ee/bezzi"><img src="https://img.icons8.com/small/96/000000/external-link-squared.png" height="25" width="25"/></a>
 </p>
-
 
 
 
