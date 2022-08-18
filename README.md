@@ -13,7 +13,6 @@
 <a href= "https://www.linkedin.com/in/bezziboi"><img src="https://img.icons8.com/clouds/500/000000/linkedin.png" height="70" width="70"/></a>
 <a href= "https://t.me/bezZzii"><img src="https://img.icons8.com/clouds/500/000000/telegram-app.png" height="70" width="70"/></a>
 <a href= "https://instagram.com/a_bezzii"><img src="https://img.icons8.com/clouds/500/000000/instagram-new--v3.png" height="70" width="70"/></a>
-<a href= "https://linktr.ee/bezzi"><img src="https://img.icons8.com/small/96/000000/external-link-squared.png" height="20" width="20"/></a>
 </p>
 
 
