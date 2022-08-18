@@ -2,11 +2,11 @@
 
 <h3 align="center"><samp> Hi there 👋🏾🌍 welcome to my Github! I'm a Bezzi QA Engineering Enthusiast. I also like Coding 🐍 and I'm exploring test automation  ☁️ </samp></h3>
 
-<p align="center">
-  <img width="350" src="https://user-images.githubusercontent.com/106346771/185440900-81a0b63e-08b7-4130-b7e1-b78f027216fc.gif">
-</p>
 
-<p align="center">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/106346771/185440900-81a0b63e-08b7-4130-b7e1-b78f027216fc.gif">
+
+
+<p align="left">
 <a href= "https://www.linkedin.com/in/bezziboi"><img src="https://img.icons8.com/ios/500/000000/linkedin.png" height="40" width="40"/></a>
 <a href= "https://t.me/bezZzii"><img src="https://img.icons8.com/ios/50/000000/telegram.png" height="40" width="40"/></a>
 <a href= "https://instagram.com/a_bezzii"><img src="https://img.icons8.com/ios/500/000000/instagram-new--v1.png" height="40" width="40"/></a>
