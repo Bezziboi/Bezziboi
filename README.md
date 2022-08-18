@@ -1,4 +1,4 @@
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/106346771/185440900-81a0b63e-08b7-4130-b7e1-b78f027216fc.gif">
+  <img align="right" width="400" src="https://user-images.githubusercontent.com/106346771/185440900-81a0b63e-08b7-4130-b7e1-b78f027216fc.gif">
 
 <h3 align="center"><samp> Hi there 👋🏾🌍 welcome to my Github! I'm a Bezzi QA Engineering Enthusiast. I also like Coding 🐍 and I'm exploring test automation  ☁️ </samp></h3>
 
@@ -15,6 +15,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bezziboi&label=Profile%20views&color=19191a&style=flat" alt="bezziboi" /></p>
+
 <p align="left">
 <a href="https://www.codewars.com/users/Bezziboi">
 <img src="https://www.codewars.com/users/Bezziboi/badges/small"/> 
