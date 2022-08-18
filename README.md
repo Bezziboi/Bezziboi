@@ -14,16 +14,16 @@
 </p>
 
 
-
-<details>
-<summary><h3><samp>More</samp></h3></summary>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bezziboi&label=Profile%20views&color=19191a&style=flat" alt="bezziboi" /></p>
 <p align="left">
 <a href="https://www.codewars.com/users/Bezziboi">
 <img src="https://www.codewars.com/users/Bezziboi/badges/small"/> 
 </a>
 </p>
+<details>
+<summary><h3><samp>More</samp></h3></summary>
+
+
 
 
 <h3 align="center">🔧 Technologies & Tools</h3>
@@ -54,8 +54,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bezziboi&theme=dark&hide_border=true&ring=DD8686&fire=DD0D0D&currStreakLabel=DD4646)](https://git.io/streak-stats)
 
 </details>
-
-<p align="center"><samp>
-Check out my repos ⬇️  
-  </samp>
-</p>
