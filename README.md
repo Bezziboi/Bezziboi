@@ -1,7 +1,11 @@
- 
- <img align="right" width="350" src="https://user-images.githubusercontent.com/106346771/185440900-81a0b63e-08b7-4130-b7e1-b78f027216fc.gif">
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bezziboi&label=Profile%20views&color=19191a&style=flat" alt="bezziboi" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bezziboi&label=Profile%20views&color=19191a&style=flat" alt="bezziboi" /></p>
+ 
+ 
+ 
+ <img align="right" width="450" src="https://user-images.githubusercontent.com/106346771/188033693-f40e92a9-6668-403d-9990-59c7bffbb2cb.png">
+
+
 
 <h3 align="center"> <samp> Hi there <img width="30" src="https://user-images.githubusercontent.com/106346771/188023897-8b68f1fb-e864-4f63-b7de-e4f31a3615c1.gif"/> welcome to my Github! I'm a Bezzi QA Engineering Enthusiast. I also like Coding and recently I'm exploring test automation </samp> </h3>
 
