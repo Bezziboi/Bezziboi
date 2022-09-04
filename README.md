@@ -2,7 +2,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bezziboi&label=Profile%20views&color=19191a&style=flat" alt="bezziboi" /></p>
  
 
- <img align="right" width="350" src="https://user-images.githubusercontent.com/106346771/188033693-f40e92a9-6668-403d-9990-59c7bffbb2cb.png">
+<!--- <img align="right" width="350" src="https://user-images.githubusercontent.com/106346771/188033693-f40e92a9-6668-403d-9990-59c7bffbb2cb.png"> --->
+
+
+  <a href="https://open.spotify.com/user/bezziboi">
+    <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=w57inbkr6behcu6nofb5l7fgx&count=5&unique=false"/>
+  </a>
 
 
 
@@ -63,11 +68,7 @@
 </div>
 
 
-<div align="center">
-  <a href="https://open.spotify.com/user/bezziboi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=w57inbkr6behcu6nofb5l7fgx&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+
 
 
 <p align="center">
