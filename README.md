@@ -90,9 +90,9 @@
 <!--- <a href= "https://instagram.com/a_bezzii"><img src="https://img.icons8.com/clouds/500/000000/instagram-new--v3.png" height="70" width="70"/></a> --->
 </p>
 <!--- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=w57inbkr6behcu6nofb5l7fgx) --->
+<!--- <img href="https://raw.githubusercontent.com/Bezziboi/Bezziboi/blob/output/snake.svg" alt="Snake animation" /> --->
 
 
-<img href="https://raw.githubusercontent.com/Bezziboi/Bezziboi/blob/output/snake.svg" alt="Snake animation" />
 
 
 
