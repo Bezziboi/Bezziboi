@@ -14,7 +14,7 @@
 - <a href= "https://www.linkedin.com/in/bezziboi"><img src="https://img.icons8.com/color/480/000000/linkedin.png" height="17" width="18"/> LinkedIn</a>
 - <a href= "https://t.me/bezZzii"><img src="https://img.icons8.com/color/480/000000/telegram-app--v1.png" height="17" width="18"/> Telegram</a>
 - <a href= "https://instagram.com/a_bezzii"><img src="https://img.icons8.com/color/480/000000/instagram-new--v1.png" height="17" width="18"/> Instagram</a>
-- <a href= "">  <img src="https://user-images.githubusercontent.com/106346771/188322070-74559a39-5485-4ec2-9cd9-75e557f0cad4.svg" height="13" width="15"/> Codewars</a>
+- <a href= "https://www.codewars.com/users/Bezziboi">&nbsp;<img src="https://user-images.githubusercontent.com/106346771/188322070-74559a39-5485-4ec2-9cd9-75e557f0cad4.svg" height="13" width="15"/> Codewars</a>
 
 
 
