@@ -5,7 +5,7 @@
 <!--- <img align="right" width="350" src="https://user-images.githubusercontent.com/106346771/188033693-f40e92a9-6668-403d-9990-59c7bffbb2cb.png"> --->
 
 
-  <a href="https://open.spotify.com/user/bezziboi">
+  <a href="https://open.spotify.com/user/w57inbkr6behcu6nofb5l7fgx">
     <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=w57inbkr6behcu6nofb5l7fgx&count=5&unique=false"/>
   </a>
 
