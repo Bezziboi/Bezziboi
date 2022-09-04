@@ -6,18 +6,26 @@
  <img align="right" width="350" src="https://user-images.githubusercontent.com/106346771/188033693-f40e92a9-6668-403d-9990-59c7bffbb2cb.png">
 
 
+<h1 align="left"> <samp> About </samp> </h1>
+<h3 align="left"> <samp> Hi there <img width="30" src="https://user-images.githubusercontent.com/106346771/188023897-8b68f1fb-e864-4f63-b7de-e4f31a3615c1.gif"/> welcome to my Github! I'm a Bezzi QA Engineering Enthusiast. I also like Coding and recently I'm exploring test automation </samp> </h3>
 
-<h3 align="center"> <samp> Hi there <img width="30" src="https://user-images.githubusercontent.com/106346771/188023897-8b68f1fb-e864-4f63-b7de-e4f31a3615c1.gif"/> welcome to my Github! I'm a Bezzi QA Engineering Enthusiast. I also like Coding and recently I'm exploring test automation </samp> </h3>
+<h1 align="left"> <samp> Socials </samp> </h1>
+
+- <a href= "https://www.linkedin.com/in/bezziboi"><img src="https://img.icons8.com/color/480/000000/linkedin.png" height="17" width="18"/> LinkedIn</a>
+- <a href= "https://t.me/bezZzii"><img src="https://img.icons8.com/color/480/000000/telegram-app--v1.png" height="17" width="18"/> Telegram</a>
+- <a href= "https://instagram.com/a_bezzii"><img src="https://img.icons8.com/color/480/000000/instagram-new--v1.png" height="17" width="18"/> Instagram</a>
+- <a href= "">  <img src="https://user-images.githubusercontent.com/106346771/188322070-74559a39-5485-4ec2-9cd9-75e557f0cad4.svg" height="13" width="15"/> Codewars</a>
 
 
 
 
 
-<p align="center">
-<a href= "https://www.linkedin.com/in/bezziboi"><img src="https://img.icons8.com/clouds/500/000000/linkedin.png" height="70" width="70"/></a>
-<a href= "https://t.me/bezZzii"><img src="https://img.icons8.com/clouds/500/000000/telegram-app.png" height="70" width="70"/></a>
-<a href= "https://instagram.com/a_bezzii"><img src="https://img.icons8.com/clouds/500/000000/instagram-new--v3.png" height="70" width="70"/></a>
-</p>
+
+
+
+<details>
+<summary list-style="none"><h3><samp>☰ More</samp></h3></summary>
+
 
 <div align="center">
 
@@ -52,22 +60,29 @@
 </div>
 
 
+</div>
 
 
-<details>
-<summary list-style="none"><h3><samp>☰ More</samp></h3></summary>
-
-<p align="left">
+<p align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Bezziboi&theme=dark&hide_border=true&ring=DD8686&fire=DD0D0D&currStreakLabel=DD4646" />
 </p>
 
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Bezziboi&show_icons=true&theme=dark&hide=issues,contribs&hide_border=true" />
 </p>
 
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bezziboi&layout=compact&theme=dark&hide_border=true" />
 </p>
+
+
+
+<p align="center">
+<!--- <a href= "https://www.linkedin.com/in/bezziboi"><img src="https://img.icons8.com/clouds/500/000000/linkedin.png" height="70" width="70"/></a> --->
+<!--- <a href= "https://t.me/bezZzii"><img src="https://img.icons8.com/clouds/500/000000/telegram-app.png" height="70" width="70"/></a> --->
+<!--- <a href= "https://instagram.com/a_bezzii"><img src="https://img.icons8.com/clouds/500/000000/instagram-new--v3.png" height="70" width="70"/></a> --->
+</p>
+
 
 </details>
 
