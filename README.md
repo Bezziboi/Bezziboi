@@ -1,13 +1,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bezziboi&label=Profile%20views&color=19191a&style=flat" alt="bezziboi" /></p>
  
- 
- 
+
  <img align="right" width="350" src="https://user-images.githubusercontent.com/106346771/188033693-f40e92a9-6668-403d-9990-59c7bffbb2cb.png">
+
 
 
 <h1 align="left"> <samp> About </samp> </h1>
 <h3 align="left"> <samp> Hi there <img width="30" src="https://user-images.githubusercontent.com/106346771/188023897-8b68f1fb-e864-4f63-b7de-e4f31a3615c1.gif"/> welcome to my Github! I'm a Bezzi QA Engineering Enthusiast. I also like Coding and recently I'm exploring test automation </samp> </h3>
+
+
+
+
 
 <h1 align="left"> <samp> Socials </samp> </h1>
 
@@ -15,7 +19,6 @@
 - <a href= "https://t.me/bezZzii"><img src="https://img.icons8.com/color/480/000000/telegram-app--v1.png" height="17" width="18"/> Telegram</a>
 - <a href= "https://instagram.com/a_bezzii"><img src="https://img.icons8.com/color/480/000000/instagram-new--v1.png" height="17" width="18"/> Instagram</a>
 - <a href= "https://www.codewars.com/users/Bezziboi">&nbsp;<img src="https://user-images.githubusercontent.com/106346771/188322070-74559a39-5485-4ec2-9cd9-75e557f0cad4.svg" height="13" width="15"/> Codewars</a>
-
 
 
 
@@ -60,6 +63,10 @@
 </div>
 
 
+<div align="center">
+  <a href="https://open.spotify.com/user/bezziboi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=w57inbkr6behcu6nofb5l7fgx&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
 
@@ -82,6 +89,15 @@
 <!--- <a href= "https://t.me/bezZzii"><img src="https://img.icons8.com/clouds/500/000000/telegram-app.png" height="70" width="70"/></a> --->
 <!--- <a href= "https://instagram.com/a_bezzii"><img src="https://img.icons8.com/clouds/500/000000/instagram-new--v3.png" height="70" width="70"/></a> --->
 </p>
+<!--- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=w57inbkr6behcu6nofb5l7fgx) --->
+
+
+<img href="https://raw.githubusercontent.com/Bezziboi/Bezziboi/blob/output/snake.svg" alt="Snake animation" />
+
+
+
+
+
 
 
 </details>
